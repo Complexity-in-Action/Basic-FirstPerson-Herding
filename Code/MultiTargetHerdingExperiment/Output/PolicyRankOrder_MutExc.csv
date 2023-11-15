@@ -1,0 +1,22 @@
+,Policy,Total Count,N,Mean Count,Proportion
+14,Successive Collinearity Angle,298,378,16.555555555555557,0.7883597883597884
+5,Furthest From Containment Zone,24,378,1.3333333333333333,0.06349206349206349
+8,Successive Closest Angle From Herder,15,378,0.8333333333333334,0.03968253968253968
+20,Other,10,378,0.5555555555555556,0.026455026455026454
+7,Successive Furthest Distance From Herder,10,378,0.5555555555555556,0.026455026455026454
+15,Dynamic Collinearity Angle,8,378,0.4444444444444444,0.021164021164021163
+1,Furthest Distance From Herder,6,378,0.3333333333333333,0.015873015873015872
+0,Closest Distance From Herder,4,378,0.2222222222222222,0.010582010582010581
+4,Closest From Containment Zone,2,378,0.1111111111111111,0.005291005291005291
+19,Dynamic Collinearity Distance,1,378,0.05555555555555555,0.0026455026455026454
+6,Successive Closest Distance From Herder,0,378,0.0,0.0
+9,Successive Furthest Angle From Herder,0,378,0.0,0.0
+11,Dynamic Furthest Distance From Herder,0,378,0.0,0.0
+12,Dynamic Closest Angle From Herder,0,378,0.0,0.0
+13,Dynamic Furthest Angle From Herder,0,378,0.0,0.0
+3,Furthest Angle From Herder,0,378,0.0,0.0
+2,Closest Angle From Herder,0,378,0.0,0.0
+16,Static Collinearity Angle,0,378,0.0,0.0
+17,Static Collinearity Distance,0,378,0.0,0.0
+18,Successive Collinearity Distance,0,378,0.0,0.0
+10,Dynamic Closest Distance From Herder,0,378,0.0,0.0
