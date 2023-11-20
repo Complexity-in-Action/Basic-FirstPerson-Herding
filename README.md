@@ -1,5 +1,5 @@
 # Simplified-Herding
-This repository contains code, experimental data collection and simulation builds in order to reproduce the results of the experiment detailed in bin Kamruddin, A., Sandison, H., Patil, G., Musolesi, M., di Bernardo, M., & Richardson, M. J. (2023). *Modeling Human Navigation and Decision Dynamics in First-Person Herding Tasks*, Royal Society Interface, under review.
+This repository contains code, experimental data collection and simulation builds in order to reproduce the results of the experiment detailed in bin Kamruddin, A., Sandison, H., Patil, G., Musolesi, M., di Bernardo, M., & Richardson, M. J. (2023). Modeling Human Navigation and Decision Dynamics in First-Person Herding Tasks. In * Juournal of the Royal Society Interface*, under review.
 
 ## Instructions
 
