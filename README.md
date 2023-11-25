@@ -12,7 +12,7 @@ Please run the .exe file present in the Experiment/FirstPersonHerdingExperiment 
 
 ### Code and Data: 
 
-Please download this repository and place the "Data" folder, found  [here]([https://link-url-here.org](https://data.mendeley.com/datasets/gcf4mhtb4s/1)), in the same directory as the "Code" folder. 
+Please download this repository and place the "Data" folder, found  [here](https://link-url-here.org](https://data.mendeley.com/datasets/gcf4mhtb4s/1), in the same directory as the "Code" folder. 
 
 Here is the recommended order in which to run the files
 
