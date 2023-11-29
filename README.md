@@ -15,6 +15,7 @@ Please run Simulator/FirstPersonHerding.exe
 - You can adjust the Time Scale slider in order to speed up or slow down the simulation.
 - You can check the "Save Data" box in order to save the simulation data. This will be saved in Simulator/FirstPersonHerding_Data/OutData.
 - Click "START" to start the simulation.
+- NB: you may ignore the "All Participant Data", "Observed TS Policy" and "Single Trial" inputs.
 
 ### Code and Data: 
 
