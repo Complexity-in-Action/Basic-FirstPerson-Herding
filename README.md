@@ -8,11 +8,16 @@ This repository contains code (in python, matlab and jupyter notebook), experime
 Please run the .exe file present in the Experiment/FirstPersonHerdingExperiment folder. "Player ID" needs to be a four-digit number and "Experiment Code" can be any number. For "Select iniFile Name", one may select "iniExperimentA.csv" for the single-target, or "iniExperimentB.csv" for the multi-target data collection experiments. Then, click play to launch the experiment.
 
 ### Simulation: 
-***
+
+Please run Simulator/FirstPersonHerding.exe
+
+- You will need to select of of "Experiment A," for the single-target herding experiment simulation, or "Experiment B" for the multi-target herding experiment simulation.
+- You can adjust the Time Scale slider in order to speed up or slow down the simulation.
+- You can check the "Save Data" box in order to save the simulation data. This will be saved in Simulator/FirstPersonHerding_Data/OutData.
 
 ### Code and Data: 
 
-Please download this repository and place the "Data" folder, found  [here](https://data.mendeley.com/datasets/gcf4mhtb4s/1), in the same directory as the "Code" folder. 
+Please place the "Data" folder, found  [here](https://data.mendeley.com/datasets/gcf4mhtb4s/1), in the same directory as the "Code" folder from this repository. 
 
 Here is the recommended order in which to run the files
 
