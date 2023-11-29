@@ -14,6 +14,7 @@ Please run Simulator/FirstPersonHerding.exe
 - You will need to select one of "Experiment A," for the single-target herding experiment simulation, or "Experiment B" for the multi-target herding experiment simulation.
 - You can adjust the Time Scale slider in order to speed up or slow down the simulation.
 - You can check the "Save Data" box in order to save the simulation data. This will be saved in Simulator/FirstPersonHerding_Data/OutData.
+- Click "START" to start the simulation.
 
 ### Code and Data: 
 
