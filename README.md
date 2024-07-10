@@ -1,4 +1,4 @@
-# Simplified-Herding
+# Basic First Person Herding
 This repository contains code (in python, matlab and jupyter notebook), experimental data collection and simulation builds (made with Unity) in order to reproduce the results of the experiment detailed in bin Kamruddin, A., Sandison, H., Patil, G., Musolesi, M., di Bernardo, M., & Richardson, M. J. (2023). Modeling Human Navigation and Decision Dynamics in First-Person Herding Tasks, under review.
 
 ## Instructions
