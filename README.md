@@ -19,7 +19,7 @@ Please run Simulator/FirstPersonHerding.exe
 
 ### Code and Data: 
 
-Please place the "Data" folder, found  [here](https://data.mendeley.com/datasets/gcf4mhtb4s/1), in the same directory as the "Code" folder from this repository. 
+Please place the "Data" folder, found  [here](https://data.mendeley.com/datasets/gcf4mhtb4s/2), in the same directory as the "Code" folder from this repository. 
 
 Here is the recommended order in which to run the files
 
